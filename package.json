@@ -1,0 +1,20 @@
+{
+  "name": "integrando-front-end-react-com-api",
+  "version": "1.0.0",
+  "description": "Integrando front end react com api rest  usando  express, typeorm, typescript  e sqlite",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dreiver1/Integrando-front-end-react-com-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dreiver1/Integrando-front-end-react-com-api/issues"
+  },
+  "homepage": "https://github.com/dreiver1/Integrando-front-end-react-com-api#readme"
+}
